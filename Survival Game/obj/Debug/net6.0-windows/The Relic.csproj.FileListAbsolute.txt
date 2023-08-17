@@ -1,0 +1,78 @@
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\The Relic.exe
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\The Relic.deps.json
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\The Relic.runtimeconfig.json
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\The Relic.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\The Relic.pdb
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\SFML.Audio.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\SFML.Graphics.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\SFML.System.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\SFML.Window.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libcsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libcsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libcsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libcsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-system.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-window.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libcsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libcsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libcsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libcsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-audio.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-system.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-window.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libcsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libcsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-audio.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-system.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-window.so
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\csfml-Audio.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\csfml-Graphics.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\csfml-System.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\csfml-Window.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x64\native\openal32.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\csfml-Audio.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\csfml-Graphics.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\csfml-System.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\csfml-Window.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\bin\Debug\net6.0-windows\runtimes\win-x86\native\openal32.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.csproj.AssemblyReference.cache
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.AssemblyInfoInputs.cache
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.AssemblyInfo.cs
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.csproj.CoreCompileInputs.cache
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.csproj.CopyComplete
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\refint\The Relic.dll
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.pdb
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\The Relic.genruntimeconfig.cache
+D:\Todo Programacion\Repositorio\TheRelicProject\Survival Game\obj\Debug\net6.0-windows\ref\The Relic.dll

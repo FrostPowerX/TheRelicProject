@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkzlUe/8B0psI44zs4FD29LZJe1ZdoOszKK9xrnVWx2F53rZc4kAUs+VBJuZQKABGNOW0K3jdIqyYhDdkHZJow==",
+  "success": true,
+  "projectFilePath": "D:\\Todo Programacion\\Repositorio\\TheRelicProject\\Survival Game\\The Relic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emagu\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\emagu\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\emagu\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\emagu\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\emagu\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\emagu\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
